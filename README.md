@@ -23,10 +23,13 @@ You can install these packages using `pip`:
 pip install pretty_midi
 pip install pychord
 ```
-## Usage
-To use the script, follow these steps:
+## How to Use the Script
 
-Run the script in a terminal or command prompt.
-When prompted, enter your chord progression, separated by spaces (for example: C G Am F).
-The script will then generate a MIDI file named Masterpiece_<chord_names>.mid in the same directory where the script is located.
+To convert your chord progressions into MIDI files using this script, please follow the instructions below:
+
+1. Execute the script in a terminal or command-line interface.
+2. Upon execution, you will be prompted to input your desired chord progression. Please input the chords separated by spaces. For instance: `C G Am F`.
+3. After providing the chord progression, the script will process the input and create a MIDI file. The file will be named in the format `Masterpiece_<chord_names>.mid` and will be saved in the same directory as the script.
+
+
 
