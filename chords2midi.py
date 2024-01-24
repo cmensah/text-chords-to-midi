@@ -4,7 +4,6 @@ import hashlib
 import os
 
 # 🎵 Chords to Midi v1.0 🎵
-# Composed by The Clever Coders from GPT-4 Universe
 # Supervised by Elonm Bomey
 
 def sanitize_chord_name(chord_name):
