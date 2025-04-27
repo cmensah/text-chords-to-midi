@@ -1,7 +1,6 @@
 # 🎵 Text Chords to Midi v1.0 🎵
 
-This script is a simple tool for musicians, composers, and hobbyists who wish to convert chord progressions into MIDI files. Created by GPT-4 Universe and supervised by Elonm Bomey, this tool takes a series of chords as input and crafts a MIDI file that can be used with any standard MIDI-compatible music software.
-
+This script is a simple tool for musicians, composers, and hobbyists who wish to convert chord progressions into MIDI files.
 ## Features
 
 - Easy to use command-line interface
